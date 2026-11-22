@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "game_duration_seconds": 7000,
+  "hunter_release_delay_seconds": 60,
+  "tpa_cooldown_seconds": 90,
+  "tpa_require_full_health": true,
+  "world_border_size_blocks": 8000,
+  "drop_radius_blocks": 4000,
+  "respawn_radius_blocks": 8,
+  "deployment_batch_size": 4,
+  "result_return_delay_seconds": 2,
+  "reset_shutdown_delay_seconds": 3,
+  "runner_equipment": {
+    "armor": {},
+    "items": []
+  },
+  "hunter_equipment": {
+    "armor": {
+      "feet": "minecraft:copper_boots"
+    },
+    "items": [
+
+      { "item": "minecraft:diamond_spear", "count": 1 }
+    ]
+  }
+}
